@@ -115,7 +115,7 @@ Possible ways to use check are listed below
 | logical check        | *error*, *logical*, ...                                        |
 | status check         | *error*, *integer*, ...                                        |
 | logical comparison   | *error*, *logical*, *logical*, ...                             |
-| integer comparison   | *error*, *integer*, ...                                        |
+| integer comparison   | *error*, *integer*, *integer*, ...                             |
 | character comparison | *error*, *character*, *character*, ...                         |
 | real comparison      | *error*, *real*, *real*, ..., thr=*real*, rel=*logical*        |
 | real NaN check       | *error*, *real*, ...                                           |
